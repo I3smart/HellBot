@@ -29,7 +29,7 @@ _starter () {
     rm -rf "$hellpath"
     cd $HELLPATH
     python3 ../updater.py ../requirements.txt requirements.txt
-    echo "••• STARTING HELLBOT •••"
+    echo "••• STARTING WARBOT •••"
     _library
 }
 
